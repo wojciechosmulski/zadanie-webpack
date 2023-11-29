@@ -1,0 +1,17 @@
+[
+  {
+    "browserName": "Chrome",
+    "logoLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png",
+    "description": "Najpopularniejsza przeglądarka"
+  },
+  {
+    "browserName": "Edge",
+    "logoLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Microsoft_Edge_logo_%282019%29.png/800px-Microsoft_Edge_logo_%282019%29.png",
+    "description": "Przeglądarka od Micro$oftu"
+  },
+  {
+    "browserName": "Arc",
+    "logoLink": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Arc_%28browser%29_logo.svg/800px-Arc_%28browser%29_logo.svg.png",
+    "description": "Najlepsza przeglądarka."
+  }
+]
